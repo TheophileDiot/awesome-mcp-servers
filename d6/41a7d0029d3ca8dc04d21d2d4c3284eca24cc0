@@ -1,0 +1,19 @@
+README.md
+  s_8348da06cfe9ac::t_9d51d50539a655 3978
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d641a7d0029d3ca8dc04d21d2d4c3284eca24cc0",
+  "prompts": {},
+  "sessions": {
+    "s_8348da06cfe9ac": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a158b1-b8a0-7e21-a391-b6895ed929e6",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "TheophileDiot <tdiot@bunkerity.com>"
+    }
+  }
+}
